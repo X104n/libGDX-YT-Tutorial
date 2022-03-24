@@ -1,4 +1,4 @@
-package core.helper;
+package helper;
 
 public class Constants {
 
